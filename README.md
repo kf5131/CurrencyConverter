@@ -5,6 +5,9 @@ This is a simple currency converter that uses the [Exchange Rate API](https://ww
 ## Usage
 
 1. Clone the repository
+```
+git clone https://github.com/kf5131/currency-converter.git
+```
 2. Install the dependencies
 ```
 pip install -r requirements.txt
